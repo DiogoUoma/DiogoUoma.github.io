@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "Hipermercado Condor",
+    "endereco": "Av. Colombo, 3404 - Zona 7, Maringá - PR, 87030-120",
+    "logo": "https://img.com/teste",
+    "ultimaAtualizacao": "2021-05-18 10:00:00"
+  
+  },
+
+  {
+    "nome": "Max Atacadista",
+    "endereco": "Av. Colombo, 2720 - Vila Morangueira, Maringá - PR, 87045-000",
+    "logo": "https://img.com/teste",
+    "ultimaAtualizacao": "2021-05-18 10:00:00"
+  },
+  
+  {
+    "nome": "Supermercados Cidade Canção - Tuiuti",
+    "endereco": "Av. Tuiuti, 1672 - Vila Morangueira, Maringá - PR, 87043-720",
+    "logo": "https://img.com/teste",
+    "ultimaAtualizacao": "2021-05-18 10:00:00"
+  }
+]
